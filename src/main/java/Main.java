@@ -31,7 +31,7 @@ public class Main {
         if (secondSmallest == Integer.MAX_VALUE) {
             System.out.println("Nieistnieje taka liczba");
         } else {
-            System.out.println("Druga najmniejsza liczba w tablicy: " + secondSmallest);
+            System.out.println("Wartosc drugiej najmniejszej liczby w tablicy to:" + secondSmallest);
         }
     }
 }
